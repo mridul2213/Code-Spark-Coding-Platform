@@ -11,3 +11,4 @@ frontend/build/
 # common
 .DS_Store
 logs/
+.env
